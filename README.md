@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravendraksingh
 - 👀 I’m interested in Distributing Computing, Scalable Systems, Spring Framework, Spring Boot, Payments Domain
-- 🌱 I’m currently learning how event driven architechture and how to use it solve business problem 
+- 🌱 I’m currently learning event driven architechture and how to use it solve business problem 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - email me at ravendraksingh(at)gmail(dot)com
 
