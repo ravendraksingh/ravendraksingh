@@ -1,6 +1,5 @@
 # About Me
 - 👋 Hi, I’m a Full Stack Developer
-- 👀 I’m interested in Distributing Computing, Scalable Systems, Spring Framework, Spring Boot, Payments Domain
 - 🌱 I’m currently learning event driven architechture and how to use it solve business problem 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - email me at ravendraksingh@gmail.com
